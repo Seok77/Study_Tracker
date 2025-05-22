@@ -1,2 +1,2 @@
 # Study_Tracker
-# A simple study tracker that you can stack your study time, study time on each subjects, and average study time in total and in each of the subjects. 
+This is a simple study tracker that allows you to stack your study time, study time on each subject, and average study time in total and in each subject. 
